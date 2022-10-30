@@ -9,7 +9,7 @@ public class ContaBancaria {
         this.saldo += saldo;
     }
 
-    void depositar(int saldo) {
+    void deposita(int saldo) {
 
         this.saldo +=saldo;
     }
